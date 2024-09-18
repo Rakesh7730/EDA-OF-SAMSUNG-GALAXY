@@ -12,16 +12,11 @@ This repository contains exploratory data analysis (EDA) of Samsung Galaxy smart
 - ⭐ Feature importance analysis
 - 🔄 Comparative analysis between different models
 
-## 🚀 Getting Started
-To replicate the analysis, clone this repository and ensure you have the necessary Python libraries installed.
 
-```bash
-git clone https://github.com/yourusername/samsung-galaxy-eda.git
-
-### Requirements:
-### Python 3.x
-### pandas: For data manipulation and analysis
-### numpy: For numerical operations
-### matplotlib: For data visualization
-### seaborn: For enhanced visualizations
-### Jupyter Notebook: For interactive data 
+## 📦 Requirements
+- Python 3.x
+- pandas: For data manipulation and analysis
+- numpy: For numerical operations
+- matplotlib: For data visualization
+- seaborn: For enhanced visualizations
+- Jupyter Notebook: For interactive data analysis
